@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-white shadow-sm rounded mb-5" style="font-family: 'Poppins', sans-serif;">
     <div class="container">
-        <a class="navbar-brand d-flex align-items-center" href="#">
+        <a class="navbar-brand d-flex align-items-center" href="/">
             <img src="/images/icon.png" alt="Logo" width="40" height="40"
                 class="d-inline-block align-text-top me-2">
             <span style="font-weight: 600; font-size: 1.50rem;">Abe.</span>
@@ -15,10 +15,10 @@
                     <a class="nav-link" aria-current="page" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/project">Projects</a>
+                    <a class="nav-link" href="/projects">Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/blog">Blog</a>
+                    <a class="nav-link" href="/blogs">Blog</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/contact">Contact</a>

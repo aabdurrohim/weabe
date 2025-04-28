@@ -12,9 +12,9 @@
                 <h5 class="text-uppercase">Links</h5>
                 <ul class="list-unstyled mb-0">
                     <li><a href="/" class="text-dark">Home</a></li>
-                    <li><a href="/project" class="text-dark">Project</a></li>
-                    <li><a href="/blog" class="text-dark">Blog</a></li>
-                    <li><a href="" class="text-dark">Contact</a></li>
+                    <li><a href="/projects" class="text-dark">Project</a></li>
+                    <li><a href="/blogs" class="text-dark">Blog</a></li>
+                    <li><a href="/contact" class="text-dark">Contact</a></li>
                 </ul>
             </div>
 
